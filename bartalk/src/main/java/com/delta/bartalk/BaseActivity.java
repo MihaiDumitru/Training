@@ -15,7 +15,7 @@ import android.widget.TextView;
 public class BaseActivity extends Activity {
 
     Typeface customTypeface;
-    String j = "woohoo";
+    String j = "woohood";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
